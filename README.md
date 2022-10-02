@@ -1,4 +1,4 @@
-My Holopins! : [![@elena's Holopin board](https://holopin.io/api/user/board?user=elena)](https://holopin.io/@elena)
+My Holopins! : [![@Shrarn's Holopin board](https://holopin.io/api/user/board?user=shrarn)](https://holopin.io/@Shrarn)
 
 <!--
 **Shrarn/Shrarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
