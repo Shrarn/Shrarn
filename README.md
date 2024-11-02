@@ -1,4 +1,4 @@
-My Holopins! : [![@Shrarn's Holopin board](https://holopin.io/api/user/board?user=shrarn)](https://holopin.io/@Shrarn)
+My Holopins! : [![An image of @shrarn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrarn)](https://holopin.io/@shrarn)
 
 <h1 align="center">Hi 👋, I'm Arnav Singh</h1>
 <h3 align="center">A passionate developer from India.</h3>
